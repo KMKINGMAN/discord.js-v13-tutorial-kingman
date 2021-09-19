@@ -1,5 +1,5 @@
 ### دورة تعلم برمجة بوتات الديسكورد 
-** Discord Server: [KINGMAN DEV](https://discord.gg/kingmandev) **
+**Discord Server: [KINGMAN DEV](https://discord.gg/kingmandev)**
 <br>
 دورة تعلم برمجة بوتات الديسكورد 
 قبل دخول هذه الدورة يجب علي تعلم لغة برمجة الجافاسكربت 
